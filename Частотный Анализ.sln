@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Частотный Анализ", "Частотный Анализ\Частотный Анализ.csproj", "{67CB7CA4-1534-4B73-82E4-5D81EF608C74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67CB7CA4-1534-4B73-82E4-5D81EF608C74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67CB7CA4-1534-4B73-82E4-5D81EF608C74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67CB7CA4-1534-4B73-82E4-5D81EF608C74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67CB7CA4-1534-4B73-82E4-5D81EF608C74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
